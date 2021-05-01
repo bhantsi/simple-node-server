@@ -1,0 +1,19 @@
+{
+  "name": "simple-node-server",
+  "version": "1.0.0",
+  "description": "simple HTTP server, a solution to i4gUmuzi training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhantsi/simple-node-server.git"
+  },
+  "author": "Hamza Danjaji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhantsi/simple-node-server/issues"
+  },
+  "homepage": "https://github.com/bhantsi/simple-node-server#readme"
+}
